@@ -1,1 +1,1 @@
-# Internet-of-Things
+# Demonstrates popular IoT protocols in Java
